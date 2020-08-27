@@ -1,0 +1,170 @@
+.head
+{
+  background-color: red;
+  height: 100px;
+  width: 100%;
+  float: left;
+
+}
+
+.logo
+{
+  text-align: center;
+  color: red;
+  margin-left: 20px;
+  margin-top: 10px;
+  font-size: 60px;
+  font: 500;
+  background:white;
+  border-radius: 50%;
+  height:80px;
+  width:85px;
+  float: left;
+}
+
+
+ #login
+{
+    width: 350px;
+    height: 20%;
+    margin-top: 39px;
+    margin-left: 750px;
+    float: left;
+    font-size: 20px;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: white;
+  
+  }
+ 
+
+#account
+{
+  border-radius:0%;
+  border: solid;
+  margin-top:33px;
+  margin-right: 40px;
+  font-size: 20px;
+  border-color: white;
+  text-align:center;
+  color:white;
+  height:35% ;
+  width: 13%;
+  float: right;
+}
+.image
+{
+  margin-top: 90px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 0px;
+}
+
+ 
+.tbc
+{
+    width: 500px;
+    height: 25px;
+    margin-left: 90px;
+    margin-top: 10px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: left;
+    color: darkslateblue;
+  }
+
+  .Overview {
+    width: 200px;
+    height: 20px;
+    font-family: Poppins;
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    font-size: 25px;
+    color: darkslateblue;
+    font-weight: bolder;
+    letter-spacing: normal;
+    text-align: right;
+    float: left;
+  }
+  .contact
+  {
+    color: darkslateblue;
+      width: 100px;
+      height: 25px;
+      margin-left: 10px;
+      margin-top: 0px;
+      margin-bottom: 0px;
+      margin-right: 1100px;
+      font-family: Poppins;
+      font-size: 25px;
+      font-weight: bolder;
+      font-style: normal;
+      letter-spacing: normal;
+      text-align: left;
+      float: right;
+    }
+  
+
+  .pno
+  {
+      width: 150px;
+      height: 29px;
+      font-family: Poppins;
+      font-size: 18px;
+      margin-left: 120px;
+      margin-right: 390px;
+      margin-top: 40px;
+      margin-bottom: 0px;
+      font-weight: normal;
+      color: darkslateblue;
+      font-style: normal;
+      text-align: left;
+    
+
+    }
+  .number
+  {
+      width: 500px;
+      height: 23px;
+      font-family: Poppins;
+      font-size: 16px;
+      letter-spacing: normal;
+      text-align: left;
+      margin-top: 0px;
+      margin-left: 120px;
+      margin-bottom: 40px;
+      color: #f67082;
+  
+    }
+
+    .name
+     {
+      width: 500px;
+      height: 20px;
+      font-family: Poppins;
+      margin-left: 120px;
+      margin-top: 0PX;
+      font-size: 20px;
+      font-weight: 600;
+      font-style: normal;
+      text-align: left;
+      color: darkslateblue;
+      
+    }
+  
+    .address
+    {
+        width: 500px;
+        height: 20px;
+        font-family: Poppins;
+        font-size: 15px;
+        font-style: normal;
+        text-align: left;
+        color: #636f88;
+        margin-left: 120PX;
+      
+      }
+    
